@@ -7,8 +7,8 @@ The repository has been tested on Ubuntu 20.04 (ROS noetic). The backend optimiz
 Run this commands:
 
 ```bash
-git clone https://github.com/Lyn-Bamboo/TASC-CCMPC.git
-cd TASC-CCMPC
+git clone https://github.com/Lyn-Bamboo/TASC.git
+cd TASC
 catkin build
 source devel/setup.bash
 roslaunch planner swarm.launch   
