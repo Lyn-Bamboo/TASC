@@ -1,0 +1,6 @@
+rviz_plugins
+/home/linjie/CODE/github/TASC/devel/.private/rviz_plugins/cmake.lock /home/linjie/CODE/github/TASC/devel/./cmake.lock
+/home/linjie/CODE/github/TASC/devel/.private/rviz_plugins/lib/librviz_plugins.so /home/linjie/CODE/github/TASC/devel/lib/librviz_plugins.so
+/home/linjie/CODE/github/TASC/devel/.private/rviz_plugins/lib/pkgconfig/rviz_plugins.pc /home/linjie/CODE/github/TASC/devel/lib/pkgconfig/rviz_plugins.pc
+/home/linjie/CODE/github/TASC/devel/.private/rviz_plugins/share/rviz_plugins/cmake/rviz_pluginsConfig.cmake /home/linjie/CODE/github/TASC/devel/share/rviz_plugins/cmake/rviz_pluginsConfig.cmake
+/home/linjie/CODE/github/TASC/devel/.private/rviz_plugins/share/rviz_plugins/cmake/rviz_pluginsConfig-version.cmake /home/linjie/CODE/github/TASC/devel/share/rviz_plugins/cmake/rviz_pluginsConfig-version.cmake
