@@ -1,8 +1,0 @@
-DecompROS/decomp_test_node
-/home/linjie/CODE/github/TASC/devel/.private/decomp_test_node/cmake.lock /home/linjie/CODE/github/TASC/devel/./cmake.lock
-/home/linjie/CODE/github/TASC/devel/.private/decomp_test_node/lib/decomp_test_node/test_seed_decomp /home/linjie/CODE/github/TASC/devel/lib/decomp_test_node/test_seed_decomp
-/home/linjie/CODE/github/TASC/devel/.private/decomp_test_node/lib/decomp_test_node/test_path_decomp_3d /home/linjie/CODE/github/TASC/devel/lib/decomp_test_node/test_path_decomp_3d
-/home/linjie/CODE/github/TASC/devel/.private/decomp_test_node/lib/decomp_test_node/test_path_decomp_2d /home/linjie/CODE/github/TASC/devel/lib/decomp_test_node/test_path_decomp_2d
-/home/linjie/CODE/github/TASC/devel/.private/decomp_test_node/lib/pkgconfig/decomp_test_node.pc /home/linjie/CODE/github/TASC/devel/lib/pkgconfig/decomp_test_node.pc
-/home/linjie/CODE/github/TASC/devel/.private/decomp_test_node/share/decomp_test_node/cmake/decomp_test_nodeConfig-version.cmake /home/linjie/CODE/github/TASC/devel/share/decomp_test_node/cmake/decomp_test_nodeConfig-version.cmake
-/home/linjie/CODE/github/TASC/devel/.private/decomp_test_node/share/decomp_test_node/cmake/decomp_test_nodeConfig.cmake /home/linjie/CODE/github/TASC/devel/share/decomp_test_node/cmake/decomp_test_nodeConfig.cmake
